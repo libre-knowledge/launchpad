@@ -11,6 +11,12 @@
 
 * [Launchpad](https://launchpad.net/)  
   官方網站
+* [Launchpad itself in Launchpad](https://launchpad.net/launchpad)  
+  專案網站網站
+* [Launchpad Help](https://help.launchpad.net/)  
+  官方的尋求幫助網站
+* [Launchpad Development](https://dev.launchpad.net/)  
+  包含專案的軟體開發相關資訊
 
 <!--
 ## 基本概念
