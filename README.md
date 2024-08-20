@@ -11,6 +11,8 @@
 
 * [launchpadlib](https://gitlab.com/libre-knowledge/launchpadlib)  
   輔助呼叫 Launchpad API 的開放來源碼 Python 程式庫
+* （開發中）[Learning signing Launchpad API requests](https://gitlab.com/brlin/launchpad-api-request-signing-lab)  
+  Learning signing Launchpad API requests with shell commands.
 
 ## 參考資料
 

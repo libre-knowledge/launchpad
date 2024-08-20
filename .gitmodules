@@ -11,3 +11,7 @@
 	path = launchpadlib
 	url = https://gitlab.com/libre-knowledge/launchpadlib.git
 	ignore = dirty
+[submodule "Learning signing Launchpad API requests"]
+	path = Learning signing Launchpad API requests
+	url = https://gitlab.com/brlin/launchpad-api-request-signing-lab.git
+	ignore = dirty
